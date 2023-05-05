@@ -7,7 +7,7 @@ on:
       - main
   
 env:
-  IMAGE_NAME: aroid3s/dell_idrac_fan_controller
+  IMAGE_NAME: dell_idrac_fan_controller
   DOCKERFILE_PATH: Dockerfile
 
 jobs:
